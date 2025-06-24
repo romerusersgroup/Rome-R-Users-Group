@@ -1,0 +1,195 @@
+/* Cleaned CSS: Hero, Cards, Footer */
+
+/* Root Colors and Variables */
+:root {
+  --primary-color: #0099d8; /* R Consortium */
+  --secondary-color: #004f9f; /* Linux Foundation */
+  --accent-color: #0072c6; /* Hybrid */
+  --text-dark: #1e293b;
+  --text-light: #64748b;
+  --background-light: #f8fafc;
+}
+
+body {
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  color: var(--text-dark);
+  background: var(--background-light);
+  margin: 0;
+  padding: 0;
+}
+
+.bg-primary {
+  background-color: var(--text-dark); 
+  color: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Hero Section */
+.hero-section {
+  min-height: 90vh;
+  background: linear-gradient(135deg, var(--secondary-color) 0%, var(--accent-color) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  padding: 2rem;
+}
+
+.hero-content {
+  max-width: 800px;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 2rem;
+  opacity: 0.9;
+}
+
+.cta-button {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: 600;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px);
+}
+
+/* Cards Section */
+.cards-section {
+  padding: 4rem 2rem;
+  background: white;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card h3 {
+  margin-top: 0;
+  color: var(--text-dark);
+  font-size: 1.3rem;
+}
+
+.card p {
+  color: var(--text-light);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+.footer {
+  background: var(--text-dark);
+  color: #004f9f;
+  padding: 2rem;
+  text-align: center;
+}
+
+.footer a {
+  color: var(--text-dark);
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: var(--text-light);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+  .hero-subtitle {
+    font-size: 1.2rem;
+  }
+  .cards-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.logo-marquee {
+  overflow: hidden;
+  white-space: nowrap;
+  background: white;
+  padding: 2rem 0;
+  margin: 3rem 0;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  position: relative;
+}
+
+.logo-marquee-content {
+  display: inline-flex;
+  animation: marquee 60s linear infinite;
+  width: max-content;
+}
+
+.logo-marquee .logo-item {
+  flex-shrink: 0;
+  margin: 0 2rem;
+  filter: grayscale(30%);
+  transition: filter 0.3s ease;
+}
+
+.logo-marquee .logo-item:hover {
+  filter: grayscale(0%);
+}
+
+.logo-marquee .logo-item img {
+  max-height: 50px;
+  opacity: 0.8;
+}
+
+.logo-marquee .logo-item:hover img {
+  opacity: 1;
+}
+
+/* Keyframes for scroll effect */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
