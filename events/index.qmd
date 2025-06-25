@@ -1,0 +1,4 @@
+# Events
+
+
+## Events are the heartbeat of our community. They bring us together to learn, collaborate, and connect. Whether it’s a workshop, a meetup, or a project showcase, each event is an opportunity to share knowledge, build skills, and grow the R programming community in Rome and beyond.

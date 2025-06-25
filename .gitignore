@@ -3,9 +3,7 @@
 .RData
 .Ruserdata
 .DS_Store
-_quarto.yml
 styles.css
-index.qmd
 docs/
 project-tree.R
 /.quarto/

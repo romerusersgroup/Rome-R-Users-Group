@@ -28,14 +28,14 @@ website:
     #logo: "images/logos/RUsers_transparent.png"
     #logo-alt: "RUsers Logo"
     left:
-      - href: index.qmd
-        text: Home
-      - href: events/index.qmd
-        text: Events
-      - href: resources/index.qmd
-        text: Resources
-      - href: news/index.qmd
-        text: News
+      - text: Home
+        href: index.qmd
+      - text: Events
+        href: events/index.qmd
+      - text: Resources
+        href: resources/index.qmd
+      - text: News
+        href: news/index.qmd
       - text: "About"
         menu: 
           - about/organizers.qmd

@@ -1,0 +1,97 @@
+---
+page-layout: custom
+toc: false
+---
+
+
+```{=html}
+<div class="hero-section">
+  <img src="images/logos/RUsers_transparent.png" alt="Rome R Logo" class="hero-logo-fixed" />
+
+  <div class="hero-content">
+    <h1 class="hero-title">Welcome</h1>
+    <p class="hero-subtitle" style="font-size: 2rem;">Rome R Users Group</p>
+    <p class="hero-description">
+      The mission of our R Programming Community is to foster a welcoming, inclusive, and collaborative environment where members can learn from one another, share ideas, and build lasting connections. We organize meetups, workshops, networking events, and collaborative projects throughout the year.
+    </p>
+    <a href="https://www.meetup.com/rome-r-users-group/?eventOrigin=your_groups" class="cta-button">Become a Member</a>
+  </div>
+</div>
+```
+
+
+
+```{=html}
+<div class="logo-marquee">
+  <div class="logo-marquee-content">
+  <!-- First set of logos -->
+    <div class="logo-item">
+      <img src="images/logos/RUsers_transparent.png" alt="RomeRUsers" style="max-height: 100px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/sponsor-logo-transparent.png" alt="RConsortium" style="max-height: 100px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/baseRlogo-removebg-preview.png" alt="baseR" style="max-height: 100px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/RLadiesRome_logo_transparent.png" alt="RLadiesRome" style="max-height: 100px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/linux-logo-transparent.png" alt="linux" style="max-height: 100px;">
+    </div>
+    <!-- Second set of logos -->
+        <div class="logo-item">
+      <img src="images/logos/RUsers_transparent.png" alt="RomeRUsers" style="max-height: 100px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/sponsor-logo-transparent.png" alt="RConsortium" style="max-height: 100px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/baseRlogo-removebg-preview.png" alt="baseR" style="max-height: 100px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/RLadiesRome_logo_transparent.png" alt="RLadiesRome" style="max-height: 100px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/linux-logo-transparent.png" alt="linux" style="max-height: 100px;">
+    </div>
+  </div>
+</div>
+
+```
+
+
+::: {.cards-section #about}
+
+# More about us, our news, resources, and events.
+
+::: {.cards-grid}
+::: {.feature-card .bg-primary}
+::: {.card-header}
+# About Us
+:::
+::: {.card-content}
+The Rome R Users Group is a local community for anyone interested in the R programming language — from beginners to experienced data scientists. Based in Rome, we bring together data professionals, researchers, students, and open-source enthusiasts to explore R’s powerful tools for data analysis, visualization, machine learning, and beyond.
+
+[Learn more](about.qmd){.card-link}
+:::
+:::
+
+
+::: {.feature-card .bg-primary}
+::: {.card-header}
+# Events & Workshops
+:::
+::: {.card-content}
+Check our past and upcoming events and workshops. 
+
+[View Events](events/index.qmd){.card-link}
+:::
+:::
+:::
+
+
+:::
+
+
