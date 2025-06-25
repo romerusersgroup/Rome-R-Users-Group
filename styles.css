@@ -139,39 +139,42 @@ body {
 }
 
   /* Push hero content down so it doesn't overlap logo */
-  .hero-content {
-    margin-top: 5rem;
+.hero-content {
+    margin-top: 7rem;
   }
 
   /* Navbar layout fixes */
-  .navbar {
+.navbar {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 1rem;
-    max-width: 100%;
-    overflow-x: hidden;
+    width: 100%;
   }
 
-  /* Navbar title styling */
-  .navbar-title {
+.navbar .quarto-title {
     font-size: 1.5rem;
-    margin-bottom: 0.5rem;
+    text-align: center;
+    width: 100%;
   }
 
-  /* Navbar links stacked vertically with spacing */
-  .navbar-links {
+.navbar-nav {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
-    width: 100%;          /* Full width for easier tap targets */
-    text-align: center;   /* Center links */
+    align-items: center;
+    width: 100%;
   }
 
-  /* Optional: make links block to fill width */
-  .navbar-links a {
+.navbar-nav .nav-item {
+    width: 100%;
+    text-align: center;
+  }
+
+.navbar-nav .nav-link {
     display: block;
-    padding: 0.5rem 0;
+    padding: 0.75rem 1rem;
+    width: 100%;
   }
 }
 
