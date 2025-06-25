@@ -25,8 +25,9 @@ website:
   page-navigation: true
   back-to-top-navigation: true  
   navbar:
-    #logo: "images/logos/RUsers_transparent.png"
-    #logo-alt: "RUsers Logo"
+    logo: "images/logos/r-logo.png"
+    logo-alt: "RUsers Logo"
+    collapse: true
     left:
       - text: Home
         href: index.qmd
