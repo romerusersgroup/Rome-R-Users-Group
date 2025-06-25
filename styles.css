@@ -135,12 +135,12 @@ body {
   top: 1rem;
   left: 50%;
   transform: translateX(-50%);
-  max-height: 100px;
+  max-height: 150px;
 }
 
   /* Push hero content down so it doesn't overlap logo */
   .hero-content {
-    margin-top: 7rem;
+    margin-top: 5rem;
   }
 
   /* Navbar layout fixes */
