@@ -131,11 +131,12 @@ body {
 
 @media (max-width: 768px) {
   /* Logo tweaks */
-  .hero-logo-fixed {
-    top: 1rem;
-    left: 1rem;
-    max-height: 100px;
-  }
+.hero-logo-fixed {
+  top: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  max-height: 100px;
+}
 
   /* Push hero content down so it doesn't overlap logo */
   .hero-content {
