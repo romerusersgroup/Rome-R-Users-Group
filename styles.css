@@ -45,7 +45,7 @@ body {
   position: absolute;
   top: 5rem;           /* Push down more if needed */
   left: 15rem;
-  max-height: 200px;
+  max-height: 150px;
   width: auto;
   z-index: 10;
   opacity: 0.95;
@@ -134,11 +134,23 @@ body {
   .hero-title {
     font-size: 2rem;
   }
+
   .hero-subtitle {
     font-size: 1.2rem;
   }
+
   .cards-grid {
     grid-template-columns: 1fr;
+  }
+
+  .hero-logo-fixed {
+    top: 1rem;
+    left: 1rem;
+    max-height: 80px;
+  }
+
+  .hero-section {
+    padding-top: 6rem; /* Extra space under the repositioned logo */
   }
 }
 
