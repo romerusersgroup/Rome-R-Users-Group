@@ -1,0 +1,64 @@
+website:
+  announcement: 
+    icon: balloon-heart
+    dismissable: true
+    content: 'Allert! Free tutorials available!'
+    type: primary
+    position: below-navbar
+  title: "Rome R Users Group"
+  description: "Online Learning Resources for Rome R Users Group"
+  site-url: "https://fgazzelloni.github.io/Rome-R-Users-Group/"
+  repo-url: "https://github.com/Fgazzelloni/Rome-R-Users-Group"
+  repo-actions: [edit, issue]
+  favicon: images/logos/RUsers_transparent.png
+  cookie-consent:
+    type: express
+    style: headline
+    palette: light
+  google-analytics:
+    tracking-id: ""
+    anonymize-ip: true
+  open-graph: 
+    locale: en_US
+  twitter-card:
+    creator: "@rladiesrome"
+  page-navigation: true
+  back-to-top-navigation: true  
+  navbar:
+    #logo: "images/logos/RUsers_transparent.png"
+    #logo-alt: "RUsers Logo"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: events/index.qmd
+        text: Events
+      - href: resources/index.qmd
+        text: Resources
+      - href: news/index.qmd
+        text: News
+      - text: "About"
+        menu: 
+          - about/organizers.qmd
+          - about/sponsors.qmd
+    tools:
+      - icon: github
+        href: https://github.com/Fgazzelloni/Rome-R-Users-Group
+      - icon: linkedin
+        href: https://www.linkedin.com/company/rome-r-users-group
+      - icon: globe
+        href: "https://www.meetup.com/pro/r-user-groups/"
+      - icon: envelope
+        href: mailto:rome@rladies.org
+  page-footer:
+    left: |
+      Copyright © 2025 Rome R Users Group<br>Designer & Maintainer: [Federica Gazzelloni](https://github.com/Fgazzelloni)<br>Powered by: Quarto & Netlify | CC-BY-NC 4.0.
+    right:
+      - icon: github
+        href: https://github.com/Fgazzelloni/Rome-R-Users-Group
+      - icon: linkedin
+        href: https://www.linkedin.com/company/rome-r-users-group
+      - icon: globe
+        href: "https://www.meetup.com/pro/r-user-groups/"
+      - icon: envelope
+        href: mailto:rome@rladies.org
+        

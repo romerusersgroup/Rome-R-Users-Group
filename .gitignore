@@ -7,4 +7,5 @@ _quarto.yml
 styles.css
 index.qmd
 docs/
+project-tree.R
 /.quarto/

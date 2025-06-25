@@ -1,0 +1,18 @@
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    highlight-style: github 
+    smooth-scroll: true
+    link-external-newwindow: true
+    citations-hover: true
+    footnotes-hover: true
+    code-copy: true
+    code-overflow: wrap
+    code-link: true
+    back-to-top-navigation: true  
+    linestretch: 1.7 
+    #fontsize: 1.2em
+
+editor: visual
