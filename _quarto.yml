@@ -5,7 +5,6 @@ project:
 metadata-files:
   - _website.yml
   - _format.yml
-  - _brand.yml
   
 execute:
   freeze: auto  
