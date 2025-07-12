@@ -25,6 +25,27 @@ body {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
+/*-- navbar --*/
+.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: 1.1em;
+  /*font-family: "Monaco", monospace;*/
+  letter-spacing: normal;
+}
+
+.navbar-brand {
+  font-size: 1.1em;
+  font-weight: bold;
+  /*color: #4c51bf; /* Indigo-700 */
+}
+
+.navbar-logo {
+  max-height: 70px;
+  width: auto;
+  align-items: baseline;
+}
+
 /* Hero Section */
 
 .hero-section {
@@ -143,7 +164,7 @@ body {
     margin-top: 7rem;
   }
 
-  /* Navbar layout fixes */
+  /* Navbar layout fixes rusers website */
 .navbar {
     display: flex;
     flex-direction: column;
@@ -168,7 +189,10 @@ body {
 
 .navbar-nav .nav-item {
     width: 100%;
-    text-align: center;
+    text-align: left;
+    /* change the size and bold text*/
+    font-size: 1.2rem;
+    font-weight: bold;
   }
 
 .navbar-nav .nav-link {
