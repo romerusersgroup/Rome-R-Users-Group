@@ -2,28 +2,28 @@
   {
     "objectID": "events/index.html",
     "href": "events/index.html",
-    "title": "Rome R Users Group",
+    "title": "Rome R-Users Group",
     "section": "",
     "text": "Events are the heartbeat of our community. They bring us together to learn, collaborate, and connect. Whether it’s a workshop, a meetup, or a project showcase, each event is an opportunity to share knowledge, build skills, and grow the R programming community in Rome and beyond.\nOur in-person focused group events are designed to foster deeper conversations and hands-on collaboration in smaller, interactive settings. Unlike large meetups, these sessions create space for participants to dive into specific topics, exchange ideas, and work through challenges side by side. By bringing people together in the same room, we create a supportive environment where learning feels personal, networking happens naturally, and everyone has a chance to contribute."
   },
   {
     "objectID": "events/index.html#events-at-rome-r-users-group",
     "href": "events/index.html#events-at-rome-r-users-group",
-    "title": "Rome R Users Group",
+    "title": "Rome R-Users Group",
     "section": "",
     "text": "Events are the heartbeat of our community. They bring us together to learn, collaborate, and connect. Whether it’s a workshop, a meetup, or a project showcase, each event is an opportunity to share knowledge, build skills, and grow the R programming community in Rome and beyond.\nOur in-person focused group events are designed to foster deeper conversations and hands-on collaboration in smaller, interactive settings. Unlike large meetups, these sessions create space for participants to dive into specific topics, exchange ideas, and work through challenges side by side. By bringing people together in the same room, we create a supportive environment where learning feels personal, networking happens naturally, and everyone has a chance to contribute."
   },
   {
     "objectID": "events/index.html#upcoming-events",
     "href": "events/index.html#upcoming-events",
-    "title": "Rome R Users Group",
+    "title": "Rome R-Users Group",
     "section": "Upcoming Events",
     "text": "Upcoming Events\nNext in-person event: https://www.meetup.com/rome-r-users-group/"
   },
   {
     "objectID": "events/index.html#past-events",
     "href": "events/index.html#past-events",
-    "title": "Rome R Users Group",
+    "title": "Rome R-Users Group",
     "section": "Past Events",
     "text": "Past Events\n\n\n\n\n\nMay, 2025 Rome R Users Group - In-Person Event\n\n\n\n\n\n\n\nJune, 2025 Rome R Users Group - In-Person Event"
   },
@@ -72,14 +72,14 @@
   {
     "objectID": "resources/index.html",
     "href": "resources/index.html",
-    "title": "Rome R Users Group",
+    "title": "Rome R-Users Group",
     "section": "",
     "text": "Some recommended R books…\n\nR for Data Science by Hadley Wickham & Garrett Grolemund - A comprehensive guide to data science using R and the tidyverse.\n\nAdvanced R by Hadley Wickham - A deep dive into the R programming language and its advanced features.\nThe Art of R Programming by Norman Matloff - A thorough introduction to R programming for beginners and experienced programmers alike.\nR in Action by Robert Kabacoff - A practical guide to R with numerous examples and case studies.\nData Science with R by Garrett Grolemund & Hadley Wickham - A hands-on guide to data science using R.\nPractical Statistics for Data Scientists by Peter Bruce & Andrew Bruce - A practical guide to statistical methods for data science using R.\n\n\n\n\nList of R packages containers…\n\nCRAN - The Comprehensive R Archive Network, the primary repository for R packages.\nBioconductor - A repository for bioinformatics and computational biology packages in R.\nRopensci - A collection of R packages for open science and reproducible research.\n\n\n\n\nLinks to tutorials…\n\nRStudio Education - A variety of tutorials and resources for learning R and RStudio.\nSwirl - An interactive learning platform that teaches R programming and data science directly in the R console.\nDataCamp - Online courses and tutorials for learning R and data science.\nCoursera R Courses - A variety of R programming courses available on Coursera.\nYouTube Channels - Numerous channels and videos dedicated to R programming and data science.\n\n\n\n\nUseful references…\n\nRStudio Cheatsheets - Handy reference sheets for various R packages and functions.\nCRAN Task Views - Curated lists of R packages for specific topics.\nTidyverse - A collection of R packages designed for data science."
   },
   {
     "objectID": "resources/index.html#resources",
     "href": "resources/index.html#resources",
-    "title": "Rome R Users Group",
+    "title": "Rome R-Users Group",
     "section": "",
     "text": "Some recommended R books…\n\nR for Data Science by Hadley Wickham & Garrett Grolemund - A comprehensive guide to data science using R and the tidyverse.\n\nAdvanced R by Hadley Wickham - A deep dive into the R programming language and its advanced features.\nThe Art of R Programming by Norman Matloff - A thorough introduction to R programming for beginners and experienced programmers alike.\nR in Action by Robert Kabacoff - A practical guide to R with numerous examples and case studies.\nData Science with R by Garrett Grolemund & Hadley Wickham - A hands-on guide to data science using R.\nPractical Statistics for Data Scientists by Peter Bruce & Andrew Bruce - A practical guide to statistical methods for data science using R.\n\n\n\n\nList of R packages containers…\n\nCRAN - The Comprehensive R Archive Network, the primary repository for R packages.\nBioconductor - A repository for bioinformatics and computational biology packages in R.\nRopensci - A collection of R packages for open science and reproducible research.\n\n\n\n\nLinks to tutorials…\n\nRStudio Education - A variety of tutorials and resources for learning R and RStudio.\nSwirl - An interactive learning platform that teaches R programming and data science directly in the R console.\nDataCamp - Online courses and tutorials for learning R and data science.\nCoursera R Courses - A variety of R programming courses available on Coursera.\nYouTube Channels - Numerous channels and videos dedicated to R programming and data science.\n\n\n\n\nUseful references…\n\nRStudio Cheatsheets - Handy reference sheets for various R packages and functions.\nCRAN Task Views - Curated lists of R packages for specific topics.\nTidyverse - A collection of R packages designed for data science."
   },
