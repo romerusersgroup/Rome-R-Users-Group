@@ -51,7 +51,7 @@ toc: false
       <img src="images/logos/sponsor-logo-transparent.png" alt="RConsortium" style="max-height: 100px;">
     </div>
     <div class="logo-item">
-      <img src="images/logos/baseRlogo-removebg-preview.png" alt="baseR" style="max-height: 100px;">
+      <img src="images/logos/r-logo.png" alt="baseR" style="max-height: 100px;">
     </div>
     <div class="logo-item">
       <img src="images/logos/RLadiesRome_logo_transparent.png" alt="RLadiesRome" style="max-height: 100px;">
