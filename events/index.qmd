@@ -1,4 +1,30 @@
-# Events
+## Events at Rome R Users Group
 
 
-## Events are the heartbeat of our community. They bring us together to learn, collaborate, and connect. Whether it’s a workshop, a meetup, or a project showcase, each event is an opportunity to share knowledge, build skills, and grow the R programming community in Rome and beyond.
+Events are the heartbeat of our community. They bring us together to learn, collaborate, and connect. Whether it’s a workshop, a meetup, or a project showcase, each event is an opportunity to share knowledge, build skills, and grow the R programming community in Rome and beyond.
+
+Our in-person focused group events are designed to foster deeper conversations and hands-on collaboration in smaller, interactive settings. Unlike large meetups, these sessions create space for participants to dive into specific topics, exchange ideas, and work through challenges side by side. By bringing people together in the same room, we create a supportive environment where learning feels personal, networking happens naturally, and everyone has a chance to contribute.
+
+## Upcoming Events
+
+Next in-person event: <https://www.meetup.com/rome-r-users-group/>
+
+## Past Events
+
+::: {.grid}
+
+::: {.g-col-6}
+[![May, 2025 Rome R Users Group - In-Person Event](https://secure.meetupstatic.com/photos/event/8/e/c/highres_527522284.webp?w=750)](https://www.meetup.com/rome-r-users-group/events/307418000)
+:::
+
+::: {.g-col-6}
+[![June, 2025 Rome R Users Group - In-Person Event](https://secure.meetupstatic.com/photos/event/a/4/5/6/highres_528642070.webp?w=750)](https://www.meetup.com/rome-r-users-group/events/308574370)
+:::
+
+:::
+
+
+
+
+
+

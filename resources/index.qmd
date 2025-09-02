@@ -1,4 +1,36 @@
-# Resources
+## Resources {#resources .tabset}
+
+### Books
+**Some recommended R books...**
+
+- [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham & Garrett Grolemund - A comprehensive guide to data science using R and the tidyverse.  
+- [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham - A deep dive into the R programming language and its advanced features.
+- [The Art of R Programming](https://www.nostarch.com/artofr.htm) by Norman Matloff - A thorough introduction to R programming for beginners and experienced programmers alike.
+- [R in Action](https://www.manning.com/books/r-in-action-second-edition) by Robert Kabacoff - A practical guide to R with numerous examples and case studies.
+- [Data Science with R](https://www.oreilly.com/library/view/data-science-with/9781491910399/) by Garrett Grolemund & Hadley Wickham - A hands-on guide to data science using R.
+- [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/) by Peter Bruce & Andrew Bruce - A practical guide to statistical methods for data science using R.
+
+### Packages
+**List of R packages containers...**
+
+- [CRAN](https://cran.r-project.org/) - The Comprehensive R Archive Network, the primary repository for R packages.
+- [Bioconductor](https://www.bioconductor.org/) - A repository for bioinformatics and computational biology packages in R.
+- [Ropensci](https://ropensci.org/) - A collection of R packages for open science and reproducible research.
 
 
-## In this section you'll find a collection of resources that can help you with your learning journey.
+### Tutorials
+**Links to tutorials...**
+
+- [RStudio Education](https://education.rstudio.com/) - A variety of tutorials and resources for learning R and RStudio.
+- [Swirl](https://swirlstats.com/) - An interactive learning platform that teaches R programming and data science directly in the R console.
+- [DataCamp](https://www.datacamp.com/) - Online courses and tutorials for learning R and data science.
+- [Coursera R Courses](https://www.coursera.org/courses?query=r%20programming) - A variety of R programming courses available on Coursera.
+- [YouTube Channels](https://www.youtube.com/results?search_query=r+programming) - Numerous channels and videos dedicated to R programming and data science.
+
+### References
+**Useful references...**
+
+- [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - Handy reference sheets for various R packages and functions.
+- [CRAN Task Views](https://cran.r-project.org/web/views/) - Curated lists of R packages for specific topics.
+- [Tidyverse](https://www.tidyverse.org/) - A collection of R packages designed for data science.
+

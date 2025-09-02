@@ -1,4 +1,39 @@
-# News
+## News {#news}
+
+Stay updated with the latest news and resources from the R community. Here are some valuable links to keep you informed and connected:
+
+::: {.cards-section #about}
+
+# R Consortium Events & Workshops
+
+::: {.cards-grid}
+::: {.feature-card .bg-primary}
+::: {.card-header}
+# R Consortium Events & Workshops
+:::
+::: {.card-content}
+List of events and workshops organized by the R Consortium. 
+
+[Events](https://r-consortium.org/news/events){.card-link}
+:::
+:::
 
 
-## This page is designed to keep you updated with the latest news and announcements related to our project. Here, you will find information about recent developments, upcoming events, and important updates.
+::: {.feature-card .bg-primary}
+::: {.card-header}
+# r-bloggers
+:::
+::: {.card-content}
+Some R Conferences for 2025
+
+[R-Conferences](https://www.r-bloggers.com/2024/11/some-r-conferences-for-2025){.card-link}
+:::
+:::
+:::
+
+
+:::
+
+
+
+

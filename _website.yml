@@ -5,7 +5,7 @@ website:
     content: 'Allert! Free tutorials available!'
     type: primary
     position: below-navbar
-  title: "Rome R Users Group"
+  title: "Rome R-Users Group"
   description: "Online Learning Resources for Rome R Users Group"
   site-url: "https://fgazzelloni.github.io/Rome-R-Users-Group/"
   repo-url: "https://github.com/Fgazzelloni/Rome-R-Users-Group"
