@@ -1,1 +1,1 @@
-Sitemap: https://fgazzelloni.github.io/Rome-R-Users-Group/sitemap.xml
+Sitemap: https://romerusersgroup.github.io/sitemap.xml
