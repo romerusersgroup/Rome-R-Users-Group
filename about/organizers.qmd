@@ -16,7 +16,7 @@ subtitle: "Who we are, where we are from, and what we do"
 :::
 
 ::: {.column width="38%"}
-![Federica Gazzelloni](organizers_picts/federicagazzelloni.jpeg)
+![Federica Gazzelloni](organizers_picts/federica-gazzelloni.png)
 :::
 :::
 
