@@ -89,7 +89,9 @@ The Rome R Users Group is a local community for anyone interested in the R progr
 ::: {.card-content}
 Check our past and upcoming events and workshops.  
 
-[![Rome R Users Group Events](https://secure.meetupstatic.com/photos/event/3/8/c/f/highres_530594543.webp?w=750){.img-fluid .rounded-lg .shadow-md}](events/index.qmd)
+<center>
+[![`Rome R Users Group Events`](images/next-event.png){.card-link width="80%"}](events/index.qmd)
+</center>
 :::
 :::
 :::

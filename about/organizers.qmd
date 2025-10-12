@@ -3,7 +3,11 @@ title: "Organizers"
 subtitle: "Who we are, where we are from, and what we do"
 ---
 
-[Rome R Users Group](https://www.meetup.com/rome-r-users-group) fonded in 2025 by [Federica Gazzelloni](https://federicagazzelloni.com/)
+:::callout-note
+
+The [Rome R Users Group](https://www.meetup.com/rome-r-users-group) was founded in 2025 by [Federica Gazzelloni](https://federicagazzelloni.com/) to connect and support R users, data scientists, and enthusiasts across Rome.
+
+:::
 
 ## 
 
@@ -52,11 +56,11 @@ subtitle: "Who we are, where we are from, and what we do"
 
 ::::
 
+## Contact Us
 
+To get in touch with [Rome R Users Group](https://www.meetup.com/rome-r-users-group/), you can email us at [romerusersgroup@gmail.com](mailto:romerusersgroup@gmail.com){.email}
 
-#### To get in touch with [Rome R Users Group](https://www.meetup.com/rome-r-users-group/), you can email us at [rome\@rladies.org](mailto:rome@rladies.org){.email}
-
-
+## Code of Conduct
 
 We have a [code of conduct](https://r-consortium.org/codeofconduct.html) that all members and participants are expected to follow. The code of conduct is designed to ensure that our community is a safe and welcoming space for everyone. We take any violations of the code of conduct seriously and will take appropriate action to address them.
 

@@ -11,14 +11,16 @@ Next in-person event: <https://www.meetup.com/rome-r-users-group/>
 
 :::: {.grid}
 
-::: {.g-col-6}
-[![October, 2025 Rome R Users Group - In-Person Event](https://secure.meetupstatic.com/photos/event/3/8/c/f/highres_530594543.webp?w=750)](https://www.meetup.com/rome-r-users-group/events/310988656)
-:::
+
 ::::
 
 ## Past Events
 
 ::: {.grid}
+
+::: {.g-col-6}
+[![October, 2025 Rome R Users Group - In-Person Event](https://secure.meetupstatic.com/photos/event/3/8/c/f/highres_530594543.webp?w=750)](https://www.meetup.com/rome-r-users-group/events/310988656)
+:::
 
 ::: {.g-col-6}
 [![June, 2025 Rome R Users Group - In-Person Event](https://secure.meetupstatic.com/photos/event/a/4/5/6/highres_528642070.webp?w=750)](https://www.meetup.com/rome-r-users-group/events/308574370)
