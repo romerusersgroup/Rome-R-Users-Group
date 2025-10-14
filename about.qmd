@@ -6,3 +6,18 @@ subtitle: ""
 ## Our Mission
 
 We are committed to providing high-quality, accessible, and engaging educational resources that empower learners of all ages. Our mission is to foster a love for learning and to support the development of critical thinking skills through innovative and interactive content.
+
+## Who We Are?
+
+We believe education has the power to transform lives. Our team is dedicated to making learning accessible, meaningful, and inspiring for everyone.
+
+<center>
+
+<div class="who-buttons" style="margin-top: 1em;">
+
+[**Organizers**](about/organizers.qmd){.btn .btn-outline-primary .me-2} 
+[**Sponsors**](about/sponsors.qmd){.btn .btn-outline-primary .me-2} 
+
+</div>
+
+</center>
